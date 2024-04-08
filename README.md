@@ -1,1 +1,1 @@
-lab1 finish
+* lab1 Map-Reduce finish
