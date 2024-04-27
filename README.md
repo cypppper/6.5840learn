@@ -6,4 +6,5 @@
   * 3B: log replication
   * 3C: persistency
   * 3D: LOG compaction
+  
   RAFT FINISH!!!  :)
