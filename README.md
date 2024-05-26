@@ -8,3 +8,5 @@
   * 3D: LOG compaction
   
   RAFT FINISH!!!  :)
+* lab4 KVServer
+  * 4A KVServer without persistence finish
