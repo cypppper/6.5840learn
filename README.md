@@ -9,4 +9,4 @@
   
   RAFT FINISH!!!  :)
 * lab4 KVServer
-  * 4A KVServer without persistence finish
+  * 4A KVServer without persistence finish （fk golang sync.Cond, why so many weired bugs???  just choose buffered channel!）
